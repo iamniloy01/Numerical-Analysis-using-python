@@ -41,18 +41,6 @@ Numerical methods for solving ordinary differential equations.
 * Matplotlib
 * Jupyter Notebook
 
-## 📂 Repository Structure
-
-```text
-Numerical-Analysis-using-python/
-│
-├── Equation of one variable/
-├── Roots of polynomial/
-├── System of Linear Algebraic Equations/
-├── Euler's method with different step sizes.ipynb
-├── assignment_20230108087.py
-└── README.md
-```
 
 ## 🎯 Purpose
 
